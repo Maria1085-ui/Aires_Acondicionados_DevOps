@@ -3,8 +3,8 @@
 [![Despliegue](https://github.com/Maria1085-ui/aires-exito-devops/actions/workflows/deploy.yml/badge.svg)](https://github.com/Maria1085-ui/aires-exito-devops/actions/workflows/deploy.yml)
 
 **Informe web publicado:** https://jorgeahernandezc80.github.io/aires-exito-devops/
-**Google colab EA1:** https://colab.research.google.com/drive/1-CFBAONsdiQ56ubvZLhtT
-87AO2OXHXw?usp=sharing
+
+**Google colab EA1:** https://colab.research.google.com/drive/1-CFBAONsdiQ56ubvZLhtT-87AO2OXHXw?usp=sharing
 
 Proyecto del curso *Programación para Análisis de Datos* (PREICA2602B020048), programa de
 Ingeniería de Software y Datos, Institución Universitaria Digital de Antioquia. Parte del trabajo
