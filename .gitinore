@@ -14,15 +14,15 @@ dist/
 coverage.xml
 htmlcov/
 
-# Artefactos generados (el sitio lo construye el pipeline de CD)
+# Portal generado por CD
 _site/
 *.png
 !docs/img/*.png
 
-# HTML crudo descargado (pesado, se regenera con el scraper)
+# HTML crudo pesado
 data/raw/
 
-# Entorno local
 .env
 .DS_Store
 .ipynb_checkpoints/
+
